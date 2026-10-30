@@ -1,0 +1,484 @@
+[  +34 ms] executing: uname -m
+[   +5 ms] Exit code 0 from: uname -m
+[        ] x86_64
+[   +5 ms] Artifact Instance of 'MaterialFonts' is not required, skipping update.
+[        ] Artifact Instance of 'GradleWrapper' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterSdk' is not required, skipping update.
+[        ] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FontSubsetArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'PubDependencies' is not required, skipping update.
+[   +7 ms] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterEngineStamp' is not required, skipping update.
+[        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[   +2 ms] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[  +40 ms] Artifact Instance of 'MaterialFonts' is not required, skipping update.
+[   +1 ms] Artifact Instance of 'GradleWrapper' is not required, skipping update.
+[   +1 ms] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterEngineStamp' is not required, skipping update.
+[        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterSdk' is not required, skipping update.
+[        ] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FontSubsetArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'PubDependencies' is not required, skipping update.
+[  +62 ms] Skipping pub get: version match.
+[  +66 ms] Found plugin flutter_contacts at /root/.pub-cache/hosted/pub.dev/flutter_contacts-2.6.0/
+[  +68 ms] Found plugin flutter_contacts at /root/.pub-cache/hosted/pub.dev/flutter_contacts-2.6.0/
+[  +10 ms] Skipping generating web_plugin_registrant.dart because it is up-to-date.
+[  +31 ms] Found plugin flutter_contacts at /root/.pub-cache/hosted/pub.dev/flutter_contacts-2.6.0/
+[   +3 ms] Generating /workspaces/flutv1/my_agenda/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java
+[   +4 ms] Skipping generating GeneratedPluginRegistrant.java because it is up-to-date.
+[   +2 ms] Skipping generating generated_plugin_registrant.h because it is up-to-date.
+[        ] Skipping generating generated_plugin_registrant.cc because it is up-to-date.
+[   +1 ms] Skipping generating generated_plugins.cmake because it is up-to-date.
+[   +1 ms] Skipping generating generated_plugin_registrant.h because it is up-to-date.
+[   +1 ms] Skipping generating generated_plugin_registrant.cc because it is up-to-date.
+[   +1 ms] Skipping generating generated_plugins.cmake because it is up-to-date.
+[   +2 ms] Skipping generating GeneratedPluginRegistrant.h because it is up-to-date.
+[   +4 ms] Skipping generating GeneratedPluginRegistrant.m because it is up-to-date.
+[   +2 ms] Skipping generating GeneratedPluginRegistrant.swift because it is up-to-date.
+[  +47 ms] Top-level Gradle build file not found, skipping migration of task "clean".
+[        ] Android Studio version could not be detected, skipping Gradle-Java version compatibility check.
+[   +1 ms] CMake project not found, skipping support Android 15 16k page size migration.
+[   +1 ms] The developer has already configured the Built-In Kotlin flag, skipping migration.
+[   +1 ms] The developer has already configured the new DSL flag, skipping migration.
+[   +2 ms] Using gradle from /workspaces/flutv1/my_agenda/android/gradlew.
+[   +8 ms] LocalFile: '/workspaces/flutv1/my_agenda/android/build.gradle.kts' doesn't provide an AGP version. Checking settings.
+[        ] LocalFile: '/workspaces/flutv1/my_agenda/android/settings.gradle.kts' provides AGP version: 9.0.1
+[        ] Running Gradle task 'assembleRelease'...
+[   +1 ms] executing: [/workspaces/flutv1/my_agenda/android/] /workspaces/flutv1/my_agenda/android/gradlew --full-stacktrace --info -Pverbose=true -Ptarget-platform=android-arm,android-arm64,android-x64 -Ptarget=lib/main.dart -Pbase-application-name=android.app.Application -Pdart-defines=RkxVVFRFUl9WRVJTSU9OPTMuNDQuMA==,RkxVVFRFUl9DSEFOTkVMPVt1c2VyLWJyYW5jaF0=,RkxVVFRFUl9HSVRfVVJMPXVua25vd24gc291cmNl,RkxVVFRFUl9GUkFNRVdPUktfUkVWSVNJT049NTU5ZmZhM2Y3NQ==,RkxVVFRFUl9FTkdJTkVfUkVWSVNJT049NGM1MjVkYWM1ZQ==,RkxVVFRFUl9EQVJUX1ZFUlNJT049My4xMi4w -Pdart-obfuscation=false -Ptrack-widget-creation=true -Ptree-shake-icons=true assembleRelease
+[ +648 ms] Initialized native services in: /root/.gradle/native
+[   +2 ms] Initialized jansi services in: /root/.gradle/native
+[ +327 ms] The client will now receive all logging from the daemon (pid: 3249). The daemon log file: /root/.gradle/daemon/9.1.0/daemon-3249.out.log
+[        ] Starting 3rd build in daemon [uptime: 5 mins 40.138 secs, performance: 100%, GC rate: 0.00/s, heap usage: 0% of 8 GiB, non-heap usage: 4% of 4 GiB]
+[        ] Using 2 worker leases.
+[        ] Not watching /workspaces/flutv1/my_agenda/android since the file system is not supported
+[        ] Watching the file system is configured to be enabled if available
+[        ] File system watching is active
+[        ] Starting Build
+[   +2 ms] Not watching /sdks/flutter/packages/flutter_tools/gradle since the file system is not supported
+[ +193 ms] > Configure project :gradle
+[   +2 ms] Evaluating project ':gradle' using build file '/sdks/flutter/packages/flutter_tools/gradle/build.gradle.kts'.
+[        ] Resolved plugin [id: 'org.gradle.java-gradle-plugin']
+[        ] Resolved plugin [id: 'org.gradle.groovy']
+[        ] Resolved plugin [id: 'org.gradle.kotlin.kotlin-dsl', version: '6.2.0']
+[        ] Resolved plugin [id: 'org.jetbrains.kotlin.jvm', version: '2.2.20']
+[        ] Build f91fd97e-846f-45df-b4bf-029228e72471 is started
+[        ] Using Kotlin Gradle Plugin gradle813 variant
+[        ] kotlin scripting plugin: created the scripting discovery configuration: kotlinScriptDef
+[        ] kotlin scripting plugin: created the scripting discovery configuration: testKotlinScriptDef
+[        ] WARNING: Unsupported Kotlin plugin version.
+[        ] The `embedded-kotlin` and `kotlin-dsl` plugins rely on features of Kotlin `2.2.0` that might work differently than in the requested version `2.2.20`.
+[        ] file or directory '/sdks/flutter/packages/flutter_tools/gradle/src/main/java', not found
+[        ] Resolved plugin [id: 'dev.flutter.flutter-plugin-loader', version: '1.0.0']
+[  +96 ms] Resolved plugin [id: 'com.android.application', version: '9.0.1', apply: false]
+[   +4 ms] Resolved plugin [id: 'org.jetbrains.kotlin.android', version: '2.3.20', apply: false]
+[   +1 ms] Resolve mutations for :gradle:checkKotlinGradlePluginConfigurationErrors (Thread[#135,included builds,5,main]) started.
+[   +2 ms] :gradle:checkKotlinGradlePluginConfigurationErrors (Thread[#135,included builds,5,main]) started.
+[        ] > Task :gradle:checkKotlinGradlePluginConfigurationErrors SKIPPED
+[        ] Skipping task ':gradle:checkKotlinGradlePluginConfigurationErrors' as task onlyIf 'errorDiagnostics are present' is false.
+[        ] Resolve mutations for :gradle:compileKotlin (Thread[#136,Execution worker,5,main]) started.
+[        ] :gradle:compileKotlin (Thread[#136,Execution worker,5,main]) started.
+[  +89 ms] > Task :gradle:compileKotlin UP-TO-DATE
+[   +2 ms] Caching disabled for task ':gradle:compileKotlin' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':gradle:compileKotlin' as it is up-to-date.
+[        ] Resolve mutations for :gradle:compileJava (Thread[#135,included builds,5,main]) started.
+[        ] :gradle:compileJava (Thread[#135,included builds,5,main]) started.
+[   +2 ms] > Task :gradle:compileJava NO-SOURCE
+[        ] Skipping task ':gradle:compileJava' as it has no source files and no previous output files.
+[        ] Resolve mutations for :gradle:compileGroovy (Thread[#136,Execution worker,5,main]) started.
+[   +3 ms] :gradle:compileGroovy (Thread[#136,Execution worker,5,main]) started.
+[        ] > Task :gradle:compileGroovy NO-SOURCE
+[        ] Skipping task ':gradle:compileGroovy' as it has no source files and no previous output files.
+[        ] Resolve mutations for :gradle:pluginDescriptors (Thread[#135,included builds,5,main]) started.
+[        ] :gradle:pluginDescriptors (Thread[#135,included builds,5,main]) started.
+[        ] > Task :gradle:pluginDescriptors UP-TO-DATE
+[        ] Caching disabled for task ':gradle:pluginDescriptors' because:
+[        ]   Build cache is disabled
+[   +1 ms]   Not worth caching
+[        ] Skipping task ':gradle:pluginDescriptors' as it is up-to-date.
+[   +2 ms] Resolve mutations for :gradle:processResources (Thread[#136,Execution worker,5,main]) started.
+[        ] :gradle:processResources (Thread[#135,included builds,5,main]) started.
+[        ] > Task :gradle:processResources UP-TO-DATE
+[        ] Caching disabled for task ':gradle:processResources' because:
+[        ]   Build cache is disabled
+[        ]   Not worth caching
+[        ] Skipping task ':gradle:processResources' as it is up-to-date.
+[        ] Resolve mutations for :gradle:classes (Thread[#136,Execution worker,5,main]) started.
+[        ] :gradle:classes (Thread[#136,Execution worker,5,main]) started.
+[        ] > Task :gradle:classes UP-TO-DATE
+[        ] Skipping task ':gradle:classes' as it has no actions.
+[        ] Resolve mutations for :gradle:jar (Thread[#136,Execution worker,5,main]) started.
+[   +2 ms] :gradle:jar (Thread[#136,Execution worker,5,main]) started.
+[        ] > Task :gradle:jar UP-TO-DATE
+[        ] Caching disabled for task ':gradle:jar' because:
+[        ]   Build cache is disabled
+[        ]   Not worth caching
+[        ] Skipping task ':gradle:jar' as it is up-to-date.
+[ +177 ms] Settings evaluated using settings file '/workspaces/flutv1/my_agenda/android/settings.gradle.kts'.
+[   +2 ms] Projects loaded. Root project using build file '/workspaces/flutv1/my_agenda/android/build.gradle.kts'.
+[        ] Included projects: [root project 'android', project ':app', project ':flutter_contacts']
+[ +299 ms] > Configure project :app
+[   +2 ms] Evaluating project ':app' using build file '/workspaces/flutv1/my_agenda/android/app/build.gradle.kts'.
+[   +2 ms] Resolved plugin [id: 'com.android.application']
+[        ] Resolved plugin [id: 'dev.flutter.flutter-gradle-plugin']
+[   +1 ms] WARNING: The option setting 'android.builtInKotlin=false' is deprecated.
+[   +1 ms] The current default is 'true'.
+[        ] It will be removed in version 10.0 of the Android Gradle plugin.
+[        ] WARNING: The option setting 'android.newDsl=false' is deprecated.
+[        ] The current default is 'true'.
+[        ] It will be removed in version 10.0 of the Android Gradle plugin.
+[   +1 ms] Using default execution profile
+[        ] Build 380dbb08-bd8b-459e-a965-81f162867f33 is started
+[   +6 ms] Using Kotlin Gradle Plugin gradle813 variant
+[        ] Using Kotlin Gradle Plugin gradle813 variant
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is /opt/android-sdk-linux
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is /opt/android-sdk-linux
+[   +9 ms] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[   +1 ms] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is /opt/android-sdk-linux
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[   +1 ms] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is /opt/android-sdk-linux
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[   +1 ms] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is /opt/android-sdk-linux
+[   +3 ms] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[   +3 ms] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[   +3 ms] C/C++: sdkFolder is /opt/android-sdk-linux
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is /opt/android-sdk-linux
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[   +1 ms] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is /opt/android-sdk-linux
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is /opt/android-sdk-linux
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is /opt/android-sdk-linux
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[   +2 ms] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is /opt/android-sdk-linux
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is /opt/android-sdk-linux
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[   +3 ms] C/C++: sdkFolder is /opt/android-sdk-linux
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is /opt/android-sdk-linux
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is /opt/android-sdk-linux
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[   +3 ms] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is /opt/android-sdk-linux
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is /opt/android-sdk-linux
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is /opt/android-sdk-linux
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is /opt/android-sdk-linux
+[   +4 ms] w: [33m[1m⚠️ Deprecated 'org.jetbrains.kotlin.android' plugin usage[0m[0m
+[        ] The 'org.jetbrains.kotlin.android' plugin in project ':app' is no longer required for Kotlin support since AGP 9.0.
+[        ] [32m[1mSolution:[0m[0m
+[        ] [32m[3mRemove both `android.builtInKotlin=true` and `android.newDsl=false` from `gradle.properties`, then migrate to built-in Kotlin.[0m[0m
+[        ] [36mSee [0m[34mhttps://kotl.in/gradle/agp-built-in-kotlin[0m[36m for more details.[0m
+[        ] > Configure project :
+[        ] Evaluating root project 'android' using build file '/workspaces/flutv1/my_agenda/android/build.gradle.kts'.
+[ +225 ms] > Configure project :flutter_contacts
+[        ] Evaluating project ':flutter_contacts' using build file '/root/.pub-cache/hosted/pub.dev/flutter_contacts-2.6.0/android/build.gradle'.
+[        ] Using default execution profile
+[   +2 ms] w: [33m[1m⚠️ Deprecated 'org.jetbrains.kotlin.android' plugin usage[0m[0m
+[        ] The 'org.jetbrains.kotlin.android' plugin in project ':flutter_contacts' is no longer required for Kotlin support since AGP 9.0.
+[        ] [32m[1mSolution:[0m[0m
+[        ] [32m[3mRemove both `android.builtInKotlin=true` and `android.newDsl=false` from `gradle.properties`, then migrate to built-in Kotlin.[0m[0m
+[        ] [36mSee [0m[34mhttps://kotl.in/gradle/agp-built-in-kotlin[0m[36m for more details.[0m
+[   +1 ms] All projects evaluated.
+[        ] Task name matched 'assembleRelease'
+[        ] Selected primary task 'assembleRelease' from project :
+[+1096 ms] Tasks to be executed: [task ':app:ReleaseMinSdkCheck', task ':app:preBuild', task ':app:preReleaseBuild', task ':app:configureCMakeRelease[arm64-v8a]', task ':app:buildCMakeRelease[arm64-v8a]', task ':app:configureCMakeRelease[armeabi-v7a]', task ':app:buildCMakeRelease[armeabi-v7a]', task ':app:configureCMakeRelease[x86_64]', task ':app:buildCMakeRelease[x86_64]', task ':app:compileFlutterBuildRelease', task ':app:copyJniLibsflutterBuildRelease', task ':app:mergeReleaseJniLibFolders', task ':flutter_contacts:preBuild', task ':flutter_contacts:preReleaseBuild', task ':flutter_contacts:mergeReleaseJniLibFolders', task ':flutter_contacts:mergeReleaseNativeLibs', task ':flutter_contacts:copyReleaseJniLibsProjectOnly', task ':app:mergeReleaseNativeLibs', task ':app:stripReleaseDebugSymbols', task ':app:extractReleaseNativeSymbolTables', task ':app:mergeReleaseNativeDebugMetadata', task ':flutter_contacts:checkKotlinGradlePluginConfigurationErrors', task ':flutter_contacts:generateReleaseResources', task ':flutter_contacts:packageReleaseResources', task ':flutter_contacts:processReleaseNavigationResources', task ':flutter_contacts:parseReleaseLocalResources', task ':flutter_contacts:generateReleaseRFile', task ':flutter_contacts:compileReleaseKotlin', task ':flutter_contacts:javaPreCompileRelease', task ':flutter_contacts:compileReleaseJavaWithJavac', task ':flutter_contacts:mergeReleaseGeneratedProguardFiles', task ':flutter_contacts:exportReleaseConsumerProguardFiles', task ':app:buildKotlinToolingMetadata', task ':app:checkReleaseDuplicateClasses', task ':app:checkKotlinGradlePluginConfigurationErrors', task ':app:cleanMergeReleaseAssets', task ':app:generateReleaseAssets', task ':flutter_contacts:generateReleaseAssets', task ':flutter_contacts:mergeReleaseAssets', task ':app:mergeReleaseAssets', task ':app:copyFlutterAssetsRelease', task ':app:generateReleaseResources', task ':app:packageReleaseResources', task ':app:processReleaseNavigationResources', task ':app:parseReleaseLocalResources', task ':app:generateReleaseRFile', task ':flutter_contacts:bundleLibCompileToJarRelease', task ':app:compileReleaseKotlin', task ':app:javaPreCompileRelease', task ':app:compileReleaseJavaWithJavac', task ':flutter_contacts:prepareReleaseArtProfile', task ':app:mergeReleaseArtProfile', task ':flutter_contacts:writeReleaseAarMetadata', task ':app:checkReleaseAarMetadata', task ':app:compileReleaseNavigationResources', task ':app:mapReleaseSourceSetPaths', task ':app:mergeReleaseResources', task ':app:createReleaseCompatibleScreenManifests', task ':app:extractDeepLinksRelease', task ':flutter_contacts:extractDeepLinksRelease', task ':flutter_contacts:processReleaseManifest', task ':app:processReleaseMainManifest', task ':app:outputReleaseAppLinkSettings', task ':app:processReleaseManifest', task ':app:processReleaseManifestForPackage', task ':app:processReleaseResources', task ':flutter_contacts:bundleLibRuntimeToJarRelease', task ':app:expandReleaseArtProfileWildcards', task ':app:extractProguardFiles', task ':app:mergeReleaseGeneratedProguardFiles', task ':app:processReleaseJavaRes', task ':flutter_contacts:processReleaseJavaRes', task ':app:mergeReleaseJavaResource', task ':app:mergeReleaseStartupProfile', task ':app:minifyReleaseWithR8', task ':app:compileReleaseArtProfile', task ':app:compressReleaseAssets', task ':app:extractReleaseVersionControlInfo', task ':flutter_contacts:createFullJarRelease', task ':flutter_contacts:extractProguardFiles', task ':flutter_contacts:generateReleaseLintModel', task ':flutter_contacts:prepareLintJarForPublish', task ':app:generateReleaseLintVitalReportModel', task ':flutter_contacts:checkReleaseAarMetadata', task ':flutter_contacts:stripReleaseDebugSymbols', task ':flutter_contacts:copyReleaseJniLibsProjectAndLocalJars', task ':flutter_contacts:extractDeepLinksForAarRelease', task ':flutter_contacts:extractReleaseAnnotations', task ':flutter_contacts:mergeReleaseConsumerProguardFiles', task ':flutter_contacts:mergeReleaseJavaResource', task ':flutter_contacts:syncReleaseLibJars', task ':flutter_contacts:bundleReleaseLocalLintAar', task ':flutter_contacts:lintVitalAnalyzeRelease', task ':flutter_contacts:writeReleaseLintModelMetadata', task ':app:lintVitalAnalyzeRelease', task ':flutter_contacts:generateReleaseLintVitalModel', task ':app:lintVitalReportRelease', task ':app:lintVitalRelease', task ':app:convertShrunkResourcesToBinaryRelease', task ':app:optimizeReleaseResources', task ':app:collectReleaseDependencies', task ':app:sdkReleaseDependencyData', task ':app:validateSigningRelease', task ':app:writeReleaseAppMetadata', task ':app:writeReleaseSigningConfigVersions', task ':app:packageRelease', task ':app:createReleaseApkListingFileRedirect', task ':app:assembleRelease', task ':flutter_contacts:bundleReleaseAar', task ':flutter_contacts:compileReleaseNavigationResources', task ':flutter_contacts:mapReleaseSourceSetPaths', task ':flutter_contacts:mergeReleaseResources', task ':flutter_contacts:verifyReleaseResources', task ':flutter_contacts:assembleRelease']
+[   +3 ms] Tasks that were excluded: []
+[        ] work action Parameters of FilterShrinkerRulesTransform (Thread[#135,included builds,5,main]) started.
+[        ] work action Parameters of ExtractAarTransform (Thread[#136,Execution worker,5,main]) started.
+[        ] Resolve mutations for :app:ReleaseMinSdkCheck (Thread[#136,Execution worker,5,main]) started.
+[        ] :app:ReleaseMinSdkCheck (Thread[#136,Execution worker,5,main]) started.
+[        ] > Task :app:ReleaseMinSdkCheck
+[        ] Caching disabled for task ':app:ReleaseMinSdkCheck' because:
+[        ]   Build cache is disabled
+[        ] Task ':app:ReleaseMinSdkCheck' is not up-to-date because:
+[        ]   Task has not declared any outputs despite executing actions.
+[   +2 ms] Resolve mutations for :app:preBuild (Thread[#136,Execution worker,5,main]) started.
+[        ] :app:preBuild (Thread[#136,Execution worker,5,main]) started.
+[        ] > Task :app:preBuild UP-TO-DATE
+[        ] Skipping task ':app:preBuild' as it has no actions.
+[        ] Resolve mutations for :app:preReleaseBuild (Thread[#136,Execution worker,5,main]) started.
+[        ] :app:preReleaseBuild (Thread[#136,Execution worker,5,main]) started.
+[        ] > Task :app:preReleaseBuild UP-TO-DATE
+[        ] Skipping task ':app:preReleaseBuild' as it has no actions.
+[        ] Resolve mutations for :app:configureCMakeRelease[arm64-v8a] (Thread[#136,Execution worker,5,main]) started.
+[        ] :app:configureCMakeRelease[arm64-v8a] (Thread[#136,Execution worker,5,main]) started.
+[  +93 ms] > Task :app:configureCMakeRelease[arm64-v8a]
+[        ] Caching disabled for task ':app:configureCMakeRelease[arm64-v8a]' because:
+[   +1 ms]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Task ':app:configureCMakeRelease[arm64-v8a]' is not up-to-date because:
+[        ]   Task.upToDateWhen is false.
+[        ] C/C++: /sdks/flutter/packages/flutter_tools/gradle/src/main/scripts/CMakeLists.txt release|arm64-v8a : Start JSON generation. Platform version: 24 min SDK version: arm64-v8a
+[   +1 ms] C/C++: /sdks/flutter/packages/flutter_tools/gradle/src/main/scripts/CMakeLists.txt release|arm64-v8a : JSON '/workspaces/flutv1/my_agenda/build/.cxx/release/1430135o/arm64-v8a/android_gradle_build.json' was up-to-date
+[        ] C/C++: /sdks/flutter/packages/flutter_tools/gradle/src/main/scripts/CMakeLists.txt release|arm64-v8a : JSON generation completed without problems
+[        ] C/C++: /sdks/flutter/packages/flutter_tools/gradle/src/main/scripts/CMakeLists.txt release|arm64-v8a : Writing build model to /workspaces/flutv1/my_agenda/build/app/intermediates/cxx/release/1430135o/logs/arm64-v8a/build_model.json
+[        ] Resolve mutations for :app:buildCMakeRelease[arm64-v8a] (Thread[#135,included builds,5,main]) started.
+[        ] :app:buildCMakeRelease[arm64-v8a] (Thread[#135,included builds,5,main]) started.
+[        ] > Task :app:buildCMakeRelease[arm64-v8a]
+[        ] Caching disabled for task ':app:buildCMakeRelease[arm64-v8a]' because:
+[   +2 ms]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Task ':app:buildCMakeRelease[arm64-v8a]' is not up-to-date because:
+[        ]   Task.upToDateWhen is false.
+[        ] C/C++: starting build
+[        ] C/C++: reading expected JSONs
+[        ] C/C++: done reading expected JSONs
+[        ] C/C++: executing build commands for targets that produce .so files or executables
+[        ] C/C++: evaluate miniconfig
+[        ] C/C++: no libraries
+[        ] Resolve mutations for :app:configureCMakeRelease[armeabi-v7a] (Thread[#136,Execution worker,5,main]) started.
+[        ] :app:configureCMakeRelease[armeabi-v7a] (Thread[#136,Execution worker,5,main]) started.
+[        ] > Task :app:configureCMakeRelease[armeabi-v7a]
+[        ] Caching disabled for task ':app:configureCMakeRelease[armeabi-v7a]' because:
+[   +1 ms]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Task ':app:configureCMakeRelease[armeabi-v7a]' is not up-to-date because:
+[        ]   Task.upToDateWhen is false.
+[        ] C/C++: /sdks/flutter/packages/flutter_tools/gradle/src/main/scripts/CMakeLists.txt release|armeabi-v7a : Start JSON generation. Platform version: 24 min SDK version: armeabi-v7a
+[        ] C/C++: /sdks/flutter/packages/flutter_tools/gradle/src/main/scripts/CMakeLists.txt release|armeabi-v7a : JSON '/workspaces/flutv1/my_agenda/build/.cxx/release/1430135o/armeabi-v7a/android_gradle_build.json' was up-to-date
+[        ] C/C++: /sdks/flutter/packages/flutter_tools/gradle/src/main/scripts/CMakeLists.txt release|armeabi-v7a : JSON generation completed without problems
+[        ] C/C++: /sdks/flutter/packages/flutter_tools/gradle/src/main/scripts/CMakeLists.txt release|armeabi-v7a : Writing build model to /workspaces/flutv1/my_agenda/build/app/intermediates/cxx/release/1430135o/logs/armeabi-v7a/build_model.json
+[        ] Resolve mutations for :app:buildCMakeRelease[armeabi-v7a] (Thread[#136,Execution worker,5,main]) started.
+[        ] :app:buildCMakeRelease[armeabi-v7a] (Thread[#136,Execution worker,5,main]) started.
+[        ] > Task :app:buildCMakeRelease[armeabi-v7a]
+[        ] Caching disabled for task ':app:buildCMakeRelease[armeabi-v7a]' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Task ':app:buildCMakeRelease[armeabi-v7a]' is not up-to-date because:
+[        ]   Task.upToDateWhen is false.
+[        ] C/C++: starting build
+[        ] C/C++: reading expected JSONs
+[        ] C/C++: done reading expected JSONs
+[        ] C/C++: executing build commands for targets that produce .so files or executables
+[        ] C/C++: evaluate miniconfig
+[        ] C/C++: no libraries
+[        ] Resolve mutations for :app:configureCMakeRelease[x86_64] (Thread[#135,included builds,5,main]) started.
+[        ] :app:configureCMakeRelease[x86_64] (Thread[#135,included builds,5,main]) started.
+[        ] > Task :app:configureCMakeRelease[x86_64]
+[        ] Caching disabled for task ':app:configureCMakeRelease[x86_64]' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Task ':app:configureCMakeRelease[x86_64]' is not up-to-date because:
+[        ]   Task.upToDateWhen is false.
+[        ] C/C++: /sdks/flutter/packages/flutter_tools/gradle/src/main/scripts/CMakeLists.txt release|x86_64 : Start JSON generation. Platform version: 24 min SDK version: x86_64
+[        ] C/C++: /sdks/flutter/packages/flutter_tools/gradle/src/main/scripts/CMakeLists.txt release|x86_64 : JSON '/workspaces/flutv1/my_agenda/build/.cxx/release/1430135o/x86_64/android_gradle_build.json' was up-to-date
+[        ] C/C++: /sdks/flutter/packages/flutter_tools/gradle/src/main/scripts/CMakeLists.txt release|x86_64 : JSON generation completed without problems
+[        ] C/C++: /sdks/flutter/packages/flutter_tools/gradle/src/main/scripts/CMakeLists.txt release|x86_64 : Writing build model to /workspaces/flutv1/my_agenda/build/app/intermediates/cxx/release/1430135o/logs/x86_64/build_model.json
+[        ] Resolve mutations for :app:buildCMakeRelease[x86_64] (Thread[#136,Execution worker,5,main]) started.
+[   +1 ms] :app:buildCMakeRelease[x86_64] (Thread[#136,Execution worker,5,main]) started.
+[  +78 ms] > Task :app:buildCMakeRelease[x86_64]
+[   +1 ms] Caching disabled for task ':app:buildCMakeRelease[x86_64]' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Task ':app:buildCMakeRelease[x86_64]' is not up-to-date because:
+[        ]   Task.upToDateWhen is false.
+[        ] C/C++: starting build
+[        ] C/C++: reading expected JSONs
+[        ] C/C++: done reading expected JSONs
+[        ] C/C++: executing build commands for targets that produce .so files or executables
+[        ] C/C++: evaluate miniconfig
+[        ] C/C++: no libraries
+[        ] Resolve mutations for :app:compileFlutterBuildRelease (Thread[#135,included builds,5,main]) started.
+[        ] :app:compileFlutterBuildRelease (Thread[#136,Execution worker,5,main]) started.
+[+1994 ms] > Task :app:compileFlutterBuildRelease
+[        ] Caching disabled for task ':app:compileFlutterBuildRelease' because:
+[        ]   Build cache is disabled
+[        ]   Caching has not been enabled for the task
+[   +1 ms] Task ':app:compileFlutterBuildRelease' is not up-to-date because:
+[        ]   Task has failed previously.
+[        ] Starting process 'command '/sdks/flutter/bin/flutter''. Working directory: /workspaces/flutv1/my_agenda Command: /sdks/flutter/bin/flutter --verbose assemble --no-version-check --depfile /workspaces/flutv1/my_agenda/build/app/intermediates/flutter/release/flutter_build.d --output /workspaces/flutv1/my_agenda/build/app/intermediates/flutter/release -dTargetFile=lib/main.dart -dTargetPlatform=android -dBuildMode=release -dTrackWidgetCreation=true -dTreeShakeIcons=true --DartDefines=RkxVVFRFUl9WRVJTSU9OPTMuNDQuMA==,RkxVVFRFUl9DSEFOTkVMPVt1c2VyLWJyYW5jaF0=,RkxVVFRFUl9HSVRfVVJMPXVua25vd24gc291cmNl,RkxVVFRFUl9GUkFNRVdPUktfUkVWSVNJT049NTU5ZmZhM2Y3NQ==,RkxVVFRFUl9FTkdJTkVfUkVWSVNJT049NGM1MjVkYWM1ZQ==,RkxVVFRFUl9EQVJUX1ZFUlNJT049My4xMi4w -dFlavor= -dAndroidArchs=android-arm android-arm64 android-x64 -dMinSdkVersion=24 android_aot_bundle_release_android-arm android_aot_bundle_release_android-arm64 android_aot_bundle_release_android-x64
+[        ] Successfully started process 'command '/sdks/flutter/bin/flutter''
+[        ] [  +39 ms] executing: uname -m
+[        ] [   +4 ms] Exit code 0 from: uname -m
+[        ] [        ] x86_64
+[        ] [   +6 ms] Artifact Instance of 'MaterialFonts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'GradleWrapper' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[   +5 ms] [        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'FlutterSdk' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[   +2 ms] [        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'FontSubsetArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'PubDependencies' is not required, skipping update.
+[        ] [   +7 ms] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'FlutterEngineStamp' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[        ] [   +4 ms] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[        ] [  +49 ms] Artifact Instance of 'MaterialFonts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'GradleWrapper' is not required, skipping update.
+[        ] [   +1 ms] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'FlutterEngineStamp' is not required, skipping update.
+[   +2 ms] [        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'FlutterSdk' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'FontSubsetArtifacts' is not required, skipping update.
+[   +1 ms] [        ] Artifact Instance of 'PubDependencies' is not required, skipping update.
+[        ] [  +12 ms] Initializing file store
+[        ] [   +1 ms] Done initializing file store
+[        ] [  +17 ms] Skipping target: gen_dart_plugin_registrant
+[        ] [   +1 ms] Skipping target: gen_localizations
+[        ] [   +3 ms] Skipping target: dart_build
+[   +2 ms] [   +2 ms] Skipping target: install_code_assets
+[        ] [   +1 ms] kernel_snapshot_program: Starting due to {InvalidatedReasonKind.outputSetAddition: The following outputs were added to the output set: /workspaces/flutv1/my_agenda/.dart_tool/flutter_build/a1ad57fbd6f068f4170573b34a126d99/app.dill}
+[        ] [  +11 ms] /sdks/flutter/bin/cache/dart-sdk/bin/dartaotruntime /sdks/flutter/bin/cache/dart-sdk/bin/snapshots/frontend_server_aot.dart.snapshot --sdk-root /sdks/flutter/bin/cache/artifacts/engine/common/flutter_patched_sdk_product/ --target=flutter --no-print-incremental-dependencies -DFLUTTER_VERSION=3.44.0 -DFLUTTER_CHANNEL=[user-branch] -DFLUTTER_GIT_URL=unknown source -DFLUTTER_FRAMEWORK_REVISION=559ffa3f75 -DFLUTTER_ENGINE_REVISION=4c525dac5e -DFLUTTER_DART_VERSION=3.12.0 -DFLUTTER_APP_FLAVOR= -Ddart.vm.profile=false -Ddart.vm.product=true --delete-tostring-package-uri=dart:ui --delete-tostring-package-uri=package:flutter --aot --tfa --target-os android --packages /workspaces/flutv1/my_agenda/.dart_tool/package_config.json --output-dill /workspaces/flutv1/my_agenda/.dart_tool/flutter_build/a1ad57fbd6f068f4170573b34a126d99/app.dill --depfile /workspaces/flutv1/my_agenda/.dart_tool/flutter_build/a1ad57fbd6f068f4170573b34a126d99/kernel_snapshot_program.d --verbosity=error package:my_agenda/main.dart
+[  +95 ms] [  +42 ms] Persisting file store
+[        ] [   +1 ms] Done persisting file store
+[   +6 ms] [   +1 ms] "flutter assemble" took 7,080ms.
+[        ] [        ] Running 1 shutdown hook
+[        ] [        ] Shutdown hooks complete
+[        ] [   +1 ms] exiting with code 1
+[        ] > Task :app:compileFlutterBuildRelease FAILED
+[        ] Build f91fd97e-846f-45df-b4bf-029228e72471 is closed
+[        ] Build 380dbb08-bd8b-459e-a965-81f162867f33 is closed
+[        ] [Incubating] Problems report is available at: file:///workspaces/flutv1/my_agenda/build/reports/problems/problems-report.html
+[        ] Deprecated Gradle features were used in this build, making it incompatible with Gradle 10.
+[        ] You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+[        ] For more on this, please refer to https://docs.gradle.org/9.1.0/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+[        ] 12 actionable tasks: 8 executed, 4 up-to-date
+[        ] Some of the file system contents retained in the virtual file system are on file systems that Gradle doesn't support watching. The relevant state was discarded to ensure changes to these locations are properly detected. You can override this by explicitly enabling file system watching.
+[  +47 ms] Running Gradle task 'assembleRelease'... (completed in 10.8s)
+[   +1 ms] "flutter apk" took 11,191ms.
+[        ] Running 1 shutdown hook
+[        ] Shutdown hooks complete
+[   +1 ms] exiting with code 1
